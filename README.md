@@ -13,7 +13,7 @@
 
 # PYBIN 💳
 
-### RUN
+### RUN IN TERMINAL OR CMD 🛡 
 
 ```
 python3 or python gen.py
