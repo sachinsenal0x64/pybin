@@ -1,2 +1,2 @@
-# CREDIT---CARD-GENERATOR
+# CREDIT--CARD-GENERATOR
  You Can Get Random Credit Cards
