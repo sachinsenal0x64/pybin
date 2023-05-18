@@ -13,3 +13,7 @@
 
 # PYBIN 💳
 
+```
+python3 or python gen.py
+
+```
