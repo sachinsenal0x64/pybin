@@ -13,6 +13,8 @@
 
 # PYBIN 💳
 
+### RUN
+
 ```
 python3 or python gen.py
 
