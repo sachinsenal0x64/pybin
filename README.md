@@ -7,7 +7,7 @@
 
 
 <p style="text-align:center;" align="center">
-   <img align="center" src="[https://github.com/sachinsenall/picx-images-hosting/raw/master/20230518/city-visa-platinum-card.76ctt185ibc0.jpg](https://cdn.jsdelivr.net/gh/sachinsenall/picx-images-hosting@master/20230518/credit-card-black-png-0.3aqjakmmfww0.jpg)" height="40%" width="40%" />
+   <img align="center" src="https://cdn.jsdelivr.net/gh/sachinsenall/picx-images-hosting@master/20230518/credit-card-black-png-0.3aqjakmmfww0.jpg" height="40%" width="40%" />
 </p>
 
 
