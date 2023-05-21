@@ -2,7 +2,7 @@ import random
 import os
 
 
-def bin_gen():
+def bin_get():
   
   numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
 
@@ -60,7 +60,7 @@ def bin_gen():
 
 
 
-def bin_get():
+def bin_gen():
   
   numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
 
