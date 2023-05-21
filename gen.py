@@ -72,7 +72,7 @@ def bin_gen():
   
   gen = True
   while gen:
-      ask = input('Which bin do you want to generate ?\n')
+      ask = input('Which bin extrap you want to generate ?\n')
       quantity = int(input("How many bins do you want to generate ?\n"))   
       length = int(input("What is the length of the bin you want (Bin length = 6 ,PAYMENT_GATE_ASK length = 16  )?\n"))
     
