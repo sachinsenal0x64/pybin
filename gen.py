@@ -59,7 +59,7 @@ def bin_get():
 
 if __name__ == "__main__":
   
-  op_1 = input("Do you want to get a bin ? then Press 1\n")
+  op_1 = input("Need More ? then Press 1\n")
   
   if op_1 == "1":
     ask,quantity,length,c =  bin_get()
