@@ -7,7 +7,7 @@
 
 
 <p style="text-align:center;" align="center">
-   <img align="center" src="https://github.com/sachinsenall/IMGS/blob/ce5f1e74ca434865078996314021110caed01ecc/gen.png" height="40%" width="40%" />
+   <img align="center" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/PICX-IMAGE-HOSTING@master/gen.1sulj8uqn3uo.webp" height="40%" width="40%" />
 </p>
 
 
