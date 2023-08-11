@@ -3,7 +3,7 @@
 
 <h1 align="center"> PYBIN 💳 </h1>
 
-<h4 align="center"> You Can Get Random BINS </h4>
+<h4 align="center"> You Can Get Random BINS </h4> 
 
 
 <p style="text-align:center;" align="center">
@@ -11,7 +11,11 @@
 </p>
 
 
+
+### Read More About [BINS](https://en.wikipedia.org/wiki/BIN)
+
 # PYBIN 💳
+
 
 ### RUN IN TERMINAL OR CMD 🛡 
 
