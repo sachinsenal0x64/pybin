@@ -12,9 +12,7 @@
 
 
 
-### Read More About [BINS](https://en.wikipedia.org/wiki/BIN)
-
-# PYBIN 💳
+## Read More About [BINS](https://en.wikipedia.org/wiki/BIN)
 
 
 ### RUN IN TERMINAL OR CMD 🪟
