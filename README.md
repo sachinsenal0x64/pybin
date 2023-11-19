@@ -14,6 +14,7 @@
 
 ## Read More About [BINS](https://en.wikipedia.org/wiki/BIN)
 
+> Made for purely educational purposes.
 
 ### RUN IN TERMINAL OR CMD 🪟
 
